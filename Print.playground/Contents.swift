@@ -17,3 +17,10 @@ print("Hi Mom! My favorite word is \(favoriteWord), my favorite color is \(favor
 
 var skySentence = "The sky is \(color)."
 print(skySentence)
+
+var favoriteFood = "pizza"
+var favoritePlace = "Myknonos"
+var favoriteColor2 = "blue"
+var favoriteMusician2 = "Dave Matthews Band"
+
+print("My favorite food is \(favoriteFood), and my favorite place is \(favoritePlace), and my favorite color is \(favoriteColor2), and my favorite Musician is \(favoriteMusician2).")
